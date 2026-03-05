@@ -1,3 +1,3 @@
 from app import suma
 def test_suma():
-    assert suma (2, 2) == 4 #prueba
+    assert suma (2, 2) == 5 #prueba
