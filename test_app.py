@@ -4,4 +4,4 @@ def test_suma():
     assert suma(2, 2) == 4
 
 def test_multiplicar():
-assert multiplicar(3, 3) == 9
+    assert multiplicar(3, 3) == 9
